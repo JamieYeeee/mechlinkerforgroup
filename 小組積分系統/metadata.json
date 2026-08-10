@@ -1,0 +1,6 @@
+{
+  "name": "小組積分系統",
+  "description": "支援多裝置同步加分、離線編輯與歷史紀錄的小組積分與綜合排名系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
